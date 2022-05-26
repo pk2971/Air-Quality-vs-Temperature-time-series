@@ -6,3 +6,6 @@ Data set with the air quality factors at different times of the day.
 We use multivariate time series forecasting/ LSTM in 1D CNN to predict the given concentration of pollutants and the temperature.
 
 Multivariate data set is more practical. 
+
+References: https://colab.research.google.com/drive/1b3CUJuDOmPmNdZFH3LQDmt5F0K3FZhqD?usp=sharing
+
